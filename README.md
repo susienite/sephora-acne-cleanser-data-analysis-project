@@ -1,1 +1,1 @@
-# sephora-acne-cleanser-data-analysis-project
+# Sephora Acne Cleanser Data Analysis Project
